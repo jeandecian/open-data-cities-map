@@ -36,6 +36,36 @@
         attribution:
           '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
       }).addTo(map);
+
+      fetch("cities.csv")
+        .then((response) => response.text())
+        .then((csvText) => {
+          const lines = csvText.trim().split("\n");
+
+          for (let i = 1; i < lines.length; i++) {
+            const values = lines[i].split(",");
+
+            if (values.length >= 5) {
+              const country = values[0];
+              const city = values[1];
+              const latitude = parseFloat(values[2]);
+              const longitude = parseFloat(values[3]);
+              const url = values[4];
+
+              if (!isNaN(latitude) && !isNaN(longitude)) {
+                const marker = L.marker([latitude, longitude]).addTo(map);
+
+                const popupContent = `
+                    <b>${city}, ${country}</b><br>
+                    <a href="${url}" target="_blank">View Data Portal</a>
+                `;
+
+                marker.bindPopup(popupContent);
+              }
+            }
+          }
+        })
+        .catch((error) => console.error("Error fetching the CSV file:", error));
     </script>
   </body>
 </html>
