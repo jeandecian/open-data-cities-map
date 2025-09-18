@@ -9,6 +9,16 @@ Canada,Ottawa,45.4215,-75.6999,https://open.ottawa.ca/
 Canada,Toronto,43.65107,-79.347015,https://open.toronto.ca/
 Canada,Vancouver,49.2827,-123.1207,https://opendata.vancouver.ca/
 Canada,Winnipeg,49.8951,-97.1384,https://data.winnipeg.ca/
+France,Bordeaux,44.8378,-0.5792,https://data.bordeaux-metropole.fr/
+France,Lille,50.6292,3.0573,https://opendata.lillemetropole.fr/
+France,Lyon,45.7640,4.8357,https://data.grandlyon.com/portail/en/accueil
+France,Marseille,43.2965,5.3698,https://opendata.marseille.fr/
+France,Montpellier,43.6108,3.8767,https://data.montpellier3m.fr/
+France,Nantes,47.2184,-1.5536,https://data.nantesmetropole.fr/
+France,Nice,43.7102,7.2620,https://opendata.nicecotedazur.org/site
+France,Paris,48.8566,2.3522,https://opendata.paris.fr/
+France,Strasbourg,48.5734,7.7521,https://data.strasbourg.eu/
+France,Toulouse,43.6047,1.4442,https://data.toulouse-metropole.fr/
 United States,Chicago,41.8781,-87.6298,https://data.cityofchicago.org/
 United States,Dallas,32.7767,-96.7970,https://www.dallasopendata.com/
 United States,Houston,29.7604,-95.3698,https://data.houstontx.gov/
