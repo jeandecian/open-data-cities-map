@@ -1,1 +1,11 @@
 Country,City,Latitude,Longitude,URL
+Canada,Brampton,43.7315,-79.7624,https://geohub.brampton.ca/
+Canada,Calgary,51.0447,-114.0719,https://data.calgary.ca/
+Canada,Edmonton,53.5461,-113.4938,https://data.edmonton.ca/
+Canada,Hamilton,43.2557,-79.8711,https://open.hamilton.ca/
+Canada,Mississauga,43.589,-79.6441,https://data.mississauga.ca/
+Canada,Montreal,45.5017,-73.5673,https://donnees.montreal.ca/en
+Canada,Ottawa,45.4215,-75.6999,https://open.ottawa.ca/
+Canada,Toronto,43.65107,-79.347015,https://open.toronto.ca/
+Canada,Vancouver,49.2827,-123.1207,https://opendata.vancouver.ca/
+Canada,Winnipeg,49.8951,-97.1384,https://data.winnipeg.ca/
