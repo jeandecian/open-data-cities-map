@@ -9,6 +9,9 @@ Canada,Ottawa,45.4215,-75.6999,https://open.ottawa.ca/
 Canada,Toronto,43.65107,-79.347015,https://open.toronto.ca/
 Canada,Vancouver,49.2827,-123.1207,https://opendata.vancouver.ca/
 Canada,Winnipeg,49.8951,-97.1384,https://data.winnipeg.ca/
+China,Beijing,39.9042,116.4074,https://data.beijing.gov.cn/
+China,Shanghai,31.2304,121.4737,https://data.sh.gov.cn/
+China,Shenzhen,22.5431,114.0579,https://opendata.sz.gov.cn/
 France,Bordeaux,44.8378,-0.5792,https://data.bordeaux-metropole.fr/
 France,Lille,50.6292,3.0573,https://opendata.lillemetropole.fr/
 France,Lyon,45.7640,4.8357,https://data.grandlyon.com/portail/en/accueil
