@@ -1,11 +1,15 @@
 Country,City,Latitude,Longitude,URL
 Canada,Brampton,43.7315,-79.7624,https://geohub.brampton.ca/
 Canada,Calgary,51.0447,-114.0719,https://data.calgary.ca/
+Canada,Drummondville,45.8839,-72.4822,https://donnees-vdrummondville.opendata.arcgis.com/
 Canada,Edmonton,53.5461,-113.4938,https://data.edmonton.ca/
+Canada,Halifax,44.6488,-63.5752,https://data-hrm.hub.arcgis.com/pages/open-data-catalogue
 Canada,Hamilton,43.2557,-79.8711,https://open.hamilton.ca/
+Canada,Kingston,44.2312,-76.4860,https://opendatakingston.cityofkingston.ca/
 Canada,Mississauga,43.589,-79.6441,https://data.mississauga.ca/
 Canada,Montreal,45.5017,-73.5673,https://donnees.montreal.ca/en
 Canada,Ottawa,45.4215,-75.6999,https://open.ottawa.ca/
+Canada,Regina,50.4452,-104.6189,https://openregina.ca/
 Canada,Toronto,43.65107,-79.347015,https://open.toronto.ca/
 Canada,Vancouver,49.2827,-123.1207,https://opendata.vancouver.ca/
 Canada,Winnipeg,49.8951,-97.1384,https://data.winnipeg.ca/
@@ -28,10 +32,18 @@ South Korea,Incheon,37.4563,126.7052,https://data.incheon.go.kr/
 South Korea,Seoul,37.5665,126.9780,https://data.seoul.go.kr/
 United States,Chicago,41.8781,-87.6298,https://data.cityofchicago.org/
 United States,Dallas,32.7767,-96.7970,https://www.dallasopendata.com/
+United States,Hawaii,21.3069,-157.8583,https://data.honolulu.gov/
 United States,Houston,29.7604,-95.3698,https://data.houstontx.gov/
+United States,Kansas City,39.0997,-94.5786,https://data.kcmo.org/
+United States,Las Vegas,36.1699,-115.1398,https://opendataportal-lasvegas.opendata.arcgis.com/
 United States,Los Angeles,34.0522,-118.2437,https://data.lacity.org/
 United States,New York,40.7128,-74.0060,https://data.cityofnewyork.us/
 United States,Philadelphia,39.9526,-75.1652,https://www.opendataphilly.org/
 United States,Phoenix,33.4484,-112.0740,https://www.phoenix.gov/opendata
+United States,Portland,45.5152,-122.6784,https://gis-pdx.opendata.arcgis.com/
+United States,Salt Lake City,40.7608,-111.8910,https://data.slc.gov/
 United States,San Antonio,29.4241,-98.4936,https://data.sanantonio.gov/
 United States,San Diego,32.7157,-117.1611,https://data.sandiego.gov/
+United States,San Francisco,37.7749,-122.4194,https://data.sfgov.org/
+United States,Seattle,47.6062,-122.3321,https://data.seattle.gov/
+United States,Washington,38.9072,-77.0369,https://opendata.dc.gov/
